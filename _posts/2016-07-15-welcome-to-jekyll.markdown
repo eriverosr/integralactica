@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "[Tutorial] Guia del Inscriptor Académico Intergaláctico, Parte 1: Definiciones"
 date:   2016-07-15 14:59:54 -0400
 categories: jekyll update
 ---
 
-[Source](http://www.eldiariointegral.cl/2015/08/05/tutorial-guia-del-inscriptor-academico-intergalactico-parte-1-definiciones/ "Permalink to Definiciones – El Diario Integral")
-
-# Definiciones – El Diario Integral
+![Image](http://www.eldiariointegral.cl/wp-content/uploads/2015/08/guiaviajero.fw_.png)
 
 Todos los que llevamos más de un año en esta facultad hemos pasado por ello. Si eres mechón, estás a unas semanas de vivirlo. ¡Pero no temas! A pesar que la primera vez suele ser confusa y llena de interrogantes, con ayuda de estudiantes más experimentados y con el paso del tiempo el proceso se vuelve una simple rutina. No te darás cuenta cuando sientas tantaconfianza que intentarás ayudar a otros estudiantes que puedan estar en tu situación actual.
 
@@ -15,9 +13,10 @@ Así es, hablo de la Inscripción Académica (IA), el proceso con el cual los es
 
 En El Diario Integral nos comprometemos a entregarte semana a semana explicaciones y_hints_parael proceso de Inscripción Académica. Dentro de este contexto, esta primera publicación intenta definir algunos conceptos que se utilizarán ampliamente en las publicaciones siguientes, las cuales tratarán de toma de ramos y la asignación de cada uno de ellos, _modificas_ y _eliminas._
 
+* TOC
+{:toc}
 
-
-### **Ramos**
+### Ramos
 
 Cada ramo en esta facultad está identificado con un código, el cual por lo general es de la siguiente forma: XX9999. Las primeras dos letras (XX) representan el departamento encargado de impartir ese ramo, y los últimos 4 dígitos son el identificador único de este ramo. Ejemplos de ramos que seguramente has tenido son: "Introducción al Cálculo" (MA1001), "Introducción al Álgebra" (MA1101), "Química" (CM1001), entre otros. En los dos primeros casos MA simboliza "Departamento de Ingeniería Matemática" (DIM), y en el último, CM simboliza "Departamento de Ciencia de los Materiales".
 
@@ -44,7 +43,7 @@ Una lista (Seguramente no completa) de códigos usados en la facultad para los r
 | Ing. Mecánica |  ME |
 | Ing. Minas |  MI |
 
-**Dato Curioso:**en el caso del código numérico, por lo general en los cursos obligatorios hasta cuarto año, el primer dígito indica el año en que el curso se toma según malla (Por eso, si eres mechón, todos tus cursos parten con 1).
+**Dato Curioso:** en el caso del código numérico, por lo general en los cursos obligatorios hasta cuarto año, el primer dígito indica el año en que el curso se toma según malla (Por eso, si eres mechón, todos tus cursos parten con 1).
 
 
 
@@ -58,11 +57,11 @@ Para efectos de requisitos de ramos, todas las secciones de un mismo ramo son eq
 
 **R:** No, eso no tiene por que ser así. Ocurre el primer semestre de Plan común para facilitarle la pega de armar horarios a la Secretaría de Estudios.
 
-**Actualización:**Vale Toro me informa por interno que si tomas todos los ramos en la misma sección, éstos siempre calzarán. ¡Gracias por el dato!
+**Actualización:** Vale Toro me informa por interno que si tomas todos los ramos en la misma sección, éstos siempre calzarán. ¡Gracias por el dato!
 
 **¿Qué pasa en un ramo si son más las personas que lo quieren tener quela cantidad decupos de éste?**
 
-**R:**Ya llegaremos a eso. (Véase**prioridad**)
+**R:** Ya llegaremos a eso. (Véase **prioridad**)
 
 
 
@@ -78,7 +77,7 @@ Por defecto desde segundo año, no posees límite de UDs, es decir, hipotéticam
 
 Hablando del caso más inmediato, el estudiante de primer año en segundo semestre de Plan Común posee un límite de 50 UD y una carga académica obligatoria de 45 UD si está al día. Esto significa que el estudiante en el caso anteriorpuede escoger un ramo electivo para complementar el plan del semestre.
 
-Cuando pasas un ramo, sus UD se transforman en**UD aprobadas**, cuando repruebas, dicho coloquialmente como "te echas" un ramo, éstas se transforman en **UD reprobadas**. La suma de las UD aprobadas con las UD reprobadas se denomina**UD inscritas.**Estos valores tienen influencia en la**prioridad.**
+Cuando pasas un ramo, sus UD se transforman en **UD aprobadas**, cuando repruebas, dicho coloquialmente como "te echas" un ramo, éstas se transforman en **UD reprobadas**. La suma de las UD aprobadas con las UD reprobadas se denomina **UD inscritas**. Estos valores tienen influencia en la **prioridad.**
 
 
 
@@ -88,9 +87,9 @@ Hablemos de prioridad… La prioridad es un número que permite ordenar a todos 
 
 El corcho que permite calcular tu prioridad de tercer semestre en adelante, si no eres deportista, es el siguiente:
 
-&gt; ** ( 1666.7 / 24 * Semestres Cursados1.26 ) * ( Σ ( UDsCurso * Nota Curso ) – Σ( UDsAprobadas ) ) * ( Σ( UDsAprobadas ) / Σ( UDsInscritas ) )**
+**( 1666.7 / 24 * Semestres Cursados1.26 ) * ( Σ ( UDsCurso * Nota Curso ) – Σ( UDsAprobadas ) ) * ( Σ( UDsAprobadas ) / Σ( UDsInscritas ) )**
 
-Específicamente, la prioridad mechona de segundo semestre es**Puntaje PSU * 100.**Si entraste por ingreso especial, tu prioridad es**100.000.** Y si entraste por cupo deportista o estás en la selección deportiva de la U, tu prioridad es **100.001. **La prioridad de ingreso especial tiene efecto solamente el segundo semestre, por lo cual desde el tercero en adelante jugarás con las reglas de todos los demás estudiantes (Corcho anterior). En cambio, la prioridad deportista te sigue mientras estés en la selección de la U.
+Específicamente, la prioridad mechona de segundo semestre es **Puntaje PSU * 100**. Si entraste por ingreso especial, tu prioridad es **100.000.** Y si entraste por cupo deportista o estás en la selección deportiva de la U, tu prioridad es **100.001**. La prioridad de ingreso especial tiene efecto solamente el segundo semestre, por lo cual desde el tercero en adelante jugarás con las reglas de todos los demás estudiantes (Corcho anterior). En cambio, la prioridad deportista te sigue mientras estés en la selección de la U.
 
 La fórmula anterior determina que los estudiantes de primer año tengan la mejor prioridad todos los segundos semestres con respecto a los "viejones", palabra usada para referirse a un estudiante que no es mechón, pero más enfocada a estudiantes de cuarto año en la facultad o más. Esta súper prioridadno tiene mucha influencia en ramos de malla (Cálculo Diferencial, Álgebra Lineal, etc) ya que los cupos por estos ramos son "competidos" entre ellos mismos. En lo que sí tiene influencia a nivel facultad es en la toma de ramos electivos, de los cuales hablaremos a continuación.
 

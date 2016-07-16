@@ -3,5 +3,3 @@
    input: GFM
    hard_wrap: false
  gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
