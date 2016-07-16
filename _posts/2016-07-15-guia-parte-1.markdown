@@ -2,7 +2,6 @@
 layout: post
 title:  "[Tutorial] Guia del Inscriptor Académico Intergaláctico, Parte 1: Definiciones"
 date:   2016-07-15 14:59:54 -0400
-categories: jekyll update
 ---
 
 ![Image](http://www.eldiariointegral.cl/wp-content/uploads/2015/08/guiaviajero.fw_.png)
