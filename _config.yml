@@ -3,4 +3,5 @@
    input: GFM
    hard_wrap: false
  permalink: /:title/
+ title: El Diario Integral - Guía de Inscripción Académica Integraláctica
  gems:
