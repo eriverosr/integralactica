@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "U-Campus y la Universidad"
+title:  U-Campus y la Universidad
 date:   2016-07-16 14:59:54 -0400
 image:  /img/posts/parte2.png
 part: 2
@@ -25,7 +25,7 @@ Oh, espera: _¿No sabes que es U-Campus?_ **¡No te asustes!**, que para eso exi
 
 # U-Campus
 
-{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/introadi1-1024x506.png" description="¡La foto cambia cada vez que cargas la página!" %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/introadi1.png" description="¡La foto cambia cada vez que cargas la página!" %}
 
 Es bastante probable que hasta el día de hoy no hayas necesitado usar U-Campus más de una vez. A pesar de ello, es también bastante probable que de acá a un año tengas que utilizarla en diversas ocasiones, con diversos motivos. El objetivo de la publicación de hoy es explicar en profundidad los módulos más utilizados por nosotros los estudiantes, y dar una caracterización general de las otras componentes que es menos probable que necesitemos.
 
@@ -43,7 +43,7 @@ En palabras más terrenales: es la plataforma que tendrás que usar para realiza
 
 **Iniciamos sesión con los mismos datos de U-Cursos** y accedemos a una pantalla principal:
 
-{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/fcfmia1-1024x623.png" description="¡No hay inscripción académica! Esto retrasará un poco la entrega de la guía 3 :\(" %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfmia1.png" description="¡No hay inscripción académica! Esto retrasará un poco la entrega de la guía 3 :\(" %}
 
 En frecuentes aparecerán los módulos que más utilices. Los módulos interesantes para un beauchefiano promedio se encuentran tanto en "Servicios Generales" como en "FCFM" [(Léase Fecccfemmmm).][6]
 
@@ -55,7 +55,7 @@ Y ahora pasaremos a definirlos, **uno por uno.** (Ahora debes estar pensando… 
 
 ## Datos Personales
 
-{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/personalesucampus-1024x753.png" description="Nuestros datos reales." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/personalesucampus.png" description="Nuestros datos reales." %}
 
 Es probable que cuando entraste a la facultad y te pidieron subir una foto para la TUI, ésta haya salido borrosa, el formato no haya sido el mejor, o que simplemente tu cara se viese completamente distinta a como es en la realidad. Si ese es tu caso ¡No te preocupes! En esta sección podrás cambiar tu foto oficial para la Universidad, además de tus datos de contacto, y hasta el idioma en el que usas U-campus. Lamentablemente hay datos como la fecha de nacimiento que no podrás cambiar, los cuales debes corregir de forma directa con el ADI utilizando un formulario específico para ello.
 
@@ -105,7 +105,7 @@ No que sepamos…
 
 ## Workflow
 
-{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/sgw1-1024x624.png" description="Una de las secciones más importantes y menos conocidas de U-Cursos." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/sgw1.png" description="Una de las secciones más importantes y menos conocidas de U-Cursos." %}
 
 Ésta es típicamente una de las secciones más desconocidas cuando uno lleva poco tiempo usando U-campus, pero sin lugar a dudas de las más importantes de todo el sitio. En esta sección podrás llevar a cabo varios de los trámites oficiales. Cambiar de código, justificar ausencia a un control, pedir certificados OPs y hacer solicitudes extraordinarias.
 
