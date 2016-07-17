@@ -150,6 +150,7 @@ a.pure-button-primary {
     left: 0;
     position: fixed !important;
     background-size:cover;
+    background-position:center;
 }
 
 .splash {
@@ -162,7 +163,6 @@ a.pure-button-primary {
     bottom: 0;
     right: 0;
     text-align: center;
-    border-radius: 20px;
     background:rgba(0,0,0,0.7);
 }
 
