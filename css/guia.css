@@ -149,11 +149,11 @@ a.pure-button-primary {
     top: 0;
     left: 0;
     position: fixed !important;
+    background-size:cover;
 }
 
 .splash {
     /* absolute center .splash within .splash-container */
-    width: 80%;
     height: 30%;
     margin: auto;
     position: absolute;
@@ -174,7 +174,7 @@ a.pure-button-primary {
 
 /* This is the main heading that appears on the blue section */
 .splash-title {
-    font-size: 2.5em;
+    font-size: 2em;
     line-height: 1em;
 }
 
