@@ -15,9 +15,17 @@ Pero los avances tecnológicos que penetraron en todos los aspectos de la vida, 
 No podríamos imaginarnos hoy en día la vida universitaria sin U-Cursos. Este invento del ADI (_Área de Infotecnologías_, organismo que trabaja en el último piso de la biblioteca central de nuestra facultad) es un guante hecho a la medida, que nos permite llevar la cuenta de todos los datos esenciales de cada ramo que estamos cursando. Un dato curioso sobre aquello: de todas las facultades hijas de Bello, somos la que más lo utiliza **por mucho**. ¿Se imaginan un mundo sin encuestas [+1/-1] que contestar? _(inserte imagen de los simpson del mundo sin abogados)_  
 Otra herramienta hermana de U-cursos, que apoya en el ámbito organizacional a la docencia, es U-Campus. Creada también por el ADI, hace poco empezó a expandirse a otras facultades para que éstas pudiesen disponer gradualmente de los mismos servicios de los cuales los Beauchefianos disponemos.
 
-Oh, espera:** ¿No sabes que es U-Campus? **¡No te asustes! para eso existe esta segunda entrega de la **_Guía del Inscriptor Académico Intergaláctico._**
+Oh, espera: _¿No sabes que es U-Campus?_ **¡No te asustes!**, que para eso existe esta segunda entrega de la  _Guía de Inscripción Académica Integraláctica_.
 
-![¡La foto cambia cada vez que cargas la página!][2] _¡La foto cambia cada vez que cargas la página!_
+# Tabla de contenidos
+{:.no_toc}
+
+* TOC
+{:toc}
+
+# U-Campus
+
+{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/introadi1-1024x506.png" description="¡La foto cambia cada vez que cargas la página!" %}
 
 Es bastante probable que hasta el día de hoy no hayas necesitado usar U-Campus más de una vez. A pesar de ello, es también bastante probable que de acá a un año tengas que utilizarla en diversas ocasiones, con diversos motivos. El objetivo de la publicación de hoy es explicar en profundidad los módulos más utilizados por nosotros los estudiantes, y dar una caracterización general de las otras componentes que es menos probable que necesitemos.
 
@@ -35,7 +43,7 @@ En palabras más terrenales: es la plataforma que tendrás que usar para realiza
 
 **Iniciamos sesión con los mismos datos de U-Cursos** y accedemos a una pantalla principal:
 
-![¡No hay inscripción académica! Esto retrasará un poco la entrega de la guía 3 :\(][5]¡No hay inscripción académica! Esto retrasará un poco la entrega de la guía 3 :(
+{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/fcfmia1-1024x623.png" description="¡No hay inscripción académica! Esto retrasará un poco la entrega de la guía 3 :\(" %}
 
 En frecuentes aparecerán los módulos que más utilices. Los módulos interesantes para un beauchefiano promedio se encuentran tanto en "Servicios Generales" como en "FCFM" [(Léase Fecccfemmmm).][6]
 
@@ -45,9 +53,9 @@ Los servicios generales son:
 
 Y ahora pasaremos a definirlos, **uno por uno.** (Ahora debes estar pensando… ¡Oh, que son paleteados los chicos del Diario Integral! [Y de la comisión Docencia y Bienestar] Y nos alegra que pienses así porque lo somos **8)** )
 
-# Datos Personales
+## Datos Personales
 
-![personalesucampus][7]Nuestros datos reales.
+{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/personalesucampus-1024x753.png" description="Nuestros datos reales." %}
 
 Es probable que cuando entraste a la facultad y te pidieron subir una foto para la TUI, ésta haya salido borrosa, el formato no haya sido el mejor, o que simplemente tu cara se viese completamente distinta a como es en la realidad. Si ese es tu caso ¡No te preocupes! En esta sección podrás cambiar tu foto oficial para la Universidad, además de tus datos de contacto, y hasta el idioma en el que usas U-campus. Lamentablemente hay datos como la fecha de nacimiento que no podrás cambiar, los cuales debes corregir de forma directa con el ADI utilizando un formulario específico para ello.
 
@@ -57,7 +65,7 @@ Es probable que cuando entraste a la facultad y te pidieron subir una foto para 
 
 
 
-# Guía Telefónica
+## Guía Telefónica
 
 Acá es donde podrás buscar los datos de contacto de cualquier cosa que se mueva en la facultad. Áreas, profes… ¡De todo! Úsese con moderación.
 
@@ -67,7 +75,7 @@ Antes que lo preguntes… Sí, la gente sigue usando teléfonos para comunicarse
 
 
 
-# Repositorio Jurídico
+## Repositorio Jurídico
 
 Acá van todas las demandas que te llegan como estud… No, mentira. No sabemos que va acá. Apareció este año y nadie tiene idea de qué es lo que hace.
 
@@ -75,7 +83,7 @@ Acá van todas las demandas que te llegan como estud… No, mentira. No sabemos 
 
 Sí 🙂
 
-# Resultados CODICE
+## Resultados CODICE
 
 ¡Así es! Un módulo completo para albergar la información de tus resultados del CODICE…
 
@@ -87,7 +95,7 @@ Y… ¡Eso! nada más que ver por acá. Vamos a algo verdaderamente importante.
 
 
 
-# Votaciones
+## Votaciones
 
 Seguramente se hacen votaciones de algún tipo por acá. Cuentan los viejones que de esta forma se votó el término del Paro Infinito del 2011…
 
@@ -95,9 +103,9 @@ Seguramente se hacen votaciones de algún tipo por acá. Cuentan los viejones qu
 
 No que sepamos…
 
-# Workflow
+## Workflow
 
-![Una de las secciones más importantes y menos conocidas de U-Cursos.][8] _Una de las secciones más importantes y menos conocidas de U-Cursos._
+{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/sgw1-1024x624.png" description="Una de las secciones más importantes y menos conocidas de U-Cursos." %}
 
 Ésta es típicamente una de las secciones más desconocidas cuando uno lleva poco tiempo usando U-campus, pero sin lugar a dudas de las más importantes de todo el sitio. En esta sección podrás llevar a cabo varios de los trámites oficiales. Cambiar de código, justificar ausencia a un control, pedir certificados OPs y hacer solicitudes extraordinarias.
 
@@ -148,12 +156,8 @@ _El Diario Integral_
 
 _Comisión Docencia y Bienestar_
 
-[2]: http://diario.laradiointegral.cl/wp-content/uploads/2015/08/introadi1-1024x506.png
 [3]: http://ucampus.uchile.cl
 [4]: http://adi.ing.uchile.cl/
-[5]: http://diario.laradiointegral.cl/wp-content/uploads/2015/08/fcfmia1-1024x623.png
 [6]: https://youtu.be/cp2MgEZWYiQ?t=3m34s
-[7]: http://diario.laradiointegral.cl/wp-content/uploads/2015/08/personalesucampus-1024x753.png
-[8]: http://diario.laradiointegral.cl/wp-content/uploads/2015/08/sgw1-1024x624.png
 [9]: https://www.youtube.com/watch?v=9Yrt9qkBQ2Q
 [10]: http://www.dedomedio.com/wp-content/uploads/2015/04/steve-jobs-frase.jpg

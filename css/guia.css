@@ -18,6 +18,15 @@ table {
   width:100%;
 }
 
+.caption {
+  text-align:center;
+  font-style: italic;
+  background:#00a7ca;
+  color:white;
+  padding:5px 20px;
+  width:100%;
+}
+
 /*
  * -- BASE STYLES --
  * Most of these are inherited from Base, but I want to change a few.

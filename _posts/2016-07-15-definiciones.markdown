@@ -3,7 +3,7 @@ layout: post
 title:  "Definiciones"
 date:   2016-07-15 14:59:54 -0400
 image:  /img/posts/parte1.png
-part: 1
+part: 1;
 ---
 Todos los que llevamos más de un año en esta facultad hemos pasado por ello. Si eres mechón, estás a unas semanas de vivirlo. ¡Pero no temas! A pesar que la primera vez suele ser confusa y llena de interrogantes, con ayuda de estudiantes más experimentados y con el paso del tiempo el proceso se vuelve una simple rutina. No te darás cuenta cuando sientas tantaconfianza que intentarás ayudar a otros estudiantes que puedan estar en tu situación actual.
 
