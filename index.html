@@ -1,25 +1,23 @@
 ---
-layout: default
+layout: post
+title: Índice General
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Guía del Inscriptor Académico Integraláctico</h1>
+  <p>Este material podrá ayudarte a entender mejor los procesos de inscripción académica dentro de la facultad, así como también a mejorar tu uso de la plataforma "U-campus", desarrollada por el ADI, en trámites y procesos de gestión de la escuela.</p>
 
-  <p> A continuación podrás ver los cinco capítulos de la Guía </p>
+  <p>Esta guía fue elaborada por Eduardo Riveros y el equipo de la Comisión Docencia y Bienestar del CEI, del año 2015, siendo actualizado todos los semestres en colaboración conjunta de las distintas comisiones de Docencia y Bienestar, la Secretaría de Gestion Docente de la Escuela y El Diario Integral.</p>
+
+  <h1> Capítulos </h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

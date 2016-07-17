@@ -1,5 +1,22 @@
   <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
-        <a class="pure-menu-heading" href="http://www.eldiariointegral.cl"><img src="/img/site/logo.svg" style="height:50px"/></a>
+      <a class="pure-menu-heading" href="http://www.eldiariointegral.cl"><img src="/img/site/logo.svg" style="height:50px"/></a>
+      <ul class="pure-menu-list">
+        <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
+            <a href="#" id="goto" class="pure-menu-link">Ir a</a>
+            <ul class="pure-menu-children">
+              {% for post in site.posts %}
+              <a href="/" class="pure-menu-link">
+                Inicio
+              </a>
+                <li class="pure-menu-item">
+                  <a href="{{ post.url | prepend: site.baseurl }}" class="pure-menu-link">
+                    {{ post.title }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+        </li>
+    </ul>
     </div>
 </div>

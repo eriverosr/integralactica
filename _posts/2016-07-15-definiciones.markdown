@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "[Parte 1] Definiciones"
+title:  "Definiciones"
 date:   2016-07-15 14:59:54 -0400
 image:  /img/posts/parte1.png
+part: 1
 ---
 Todos los que llevamos más de un año en esta facultad hemos pasado por ello. Si eres mechón, estás a unas semanas de vivirlo. ¡Pero no temas! A pesar que la primera vez suele ser confusa y llena de interrogantes, con ayuda de estudiantes más experimentados y con el paso del tiempo el proceso se vuelve una simple rutina. No te darás cuenta cuando sientas tantaconfianza que intentarás ayudar a otros estudiantes que puedan estar en tu situación actual.
 
@@ -10,10 +11,13 @@ Así es, hablo de la Inscripción Académica (IA), el proceso con el cual los es
 
 En El Diario Integral nos comprometemos a entregarte semana a semana explicaciones y_hints_parael proceso de Inscripción Académica. Dentro de este contexto, esta primera publicación intenta definir algunos conceptos que se utilizarán ampliamente en las publicaciones siguientes, las cuales tratarán de toma de ramos y la asignación de cada uno de ellos, _modificas_ y _eliminas._
 
+# Tabla de contenidos
+{:.no_toc}
+
 * TOC
 {:toc}
 
-## Ramos
+# Ramos
 
 Cada ramo en esta facultad está identificado con un código, el cual por lo general es de la siguiente forma: XX9999. Las primeras dos letras (XX) representan el departamento encargado de impartir ese ramo, y los últimos 4 dígitos son el identificador único de este ramo. Ejemplos de ramos que seguramente has tenido son: "Introducción al Cálculo" (MA1001), "Introducción al Álgebra" (MA1101), "Química" (CM1001), entre otros. En los dos primeros casos MA simboliza "Departamento de Ingeniería Matemática" (DIM), y en el último, CM simboliza "Departamento de Ciencia de los Materiales".
 
@@ -39,12 +43,13 @@ Una lista (Seguramente no completa) de códigos usados en la facultad para los r
 | Ing. Matemática |  MA |
 | Ing. Mecánica |  ME |
 | Ing. Minas |  MI |
+{: .pure-table .pure-table-horizontal}
 
 **Dato Curioso:** en el caso del código numérico, por lo general en los cursos obligatorios hasta cuarto año, el primer dígito indica el año en que el curso se toma según malla (Por eso, si eres mechón, todos tus cursos parten con 1).
 
 
 
-## Secciones
+# Secciones
 
 La sección es una de las tantas instancias en que se realiza un ramoel mismo semestre. Por ejemplo, en primer semestre, "Intro al Cálculo" tiene 8 secciones de 100 personas (Las cuales claramente coinciden con las secciones de los mechones). Cada sección tiene un profesor asignado, el cual puede repetirse entre secciones; y auxiliares definidos, los cuales normalmenteno se repiten. La mayoría de las veces,en especial en ramosque no son de primer año, el profesor de cada sección decide su forma de evaluación y de enseñar el curso, por lo cual los estudiantes escogen la sección del ramoen la que desean participar según comentarios anteriores de los profesores. En U-Cursos puedes identificar la sección como el dígito después del guión en el código del ramo. Ejemplo: "MA1001-7" es la sección 7 del curso "Intro al Cálculo".
 
@@ -62,7 +67,7 @@ Para efectos de requisitos de ramos, todas las secciones de un mismo ramo son eq
 
 
 
-## Unidad Docente (UD)
+# Unidad Docente (UD)
 
 Son el equivalente a los "Créditos" en otras universidades y facultades. La leyenda cuenta que la UD representa la **cantidad de horas semanales que debieses dedicarle al curso** _(Spoiler: por lo general no es tan así)._ Por ejemplo, si el curso "Introducción al Cálculo" posee 10 UD, significa que debieses dedicarle 10 horas a la semana para poder asimilarlo de forma apropiada. Estas horas incluyen cátedras y auxiliares, así que el "Trabajo en casa" corresponde al tiempo que las actividades oficiales no logran cubrir.
 
@@ -78,7 +83,7 @@ Cuando pasas un ramo, sus UD se transforman en **UD aprobadas**, cuando reprueba
 
 
 
-## Prioridad
+# Prioridad
 
 Hablemos de prioridad… La prioridad es un número que permite ordenar a todos los estudiantes de la facultad según un puntaje dependiente de ciertos criterios específicos como lo son las UD aprobadas/reprobadas, Semestres cursados, sistema de ingreso a la Facultad, ser o no "Deportista Destacado", etcétera. Este puntaje se calcula con un semestre de desfase. Los alumnos con mayor puntaje tienen una mayor prioridad al momento de elegir sus ramos. Claramente, los estudiantes de primer y segundo semestre no poseen prioridad definida, y debido a esto los ramos el primer semestre (en realidad, las secciones) se definen según "azar" y los de segundo semestre con una prioridad calculada en base a Puntaje PSU de ingreso, para los estudiantes de ingreso normal, o un puntaje fijo para los estudiantes de ingreso especial, es decir: SIPEE, PEG, Deportista, entre otros.
 
@@ -98,7 +103,7 @@ Nah, U-Campus (La plataforma para tomar ramos de la cual hablaremos en toda la s
 
 Toda la gente que entró a la facultad por cupo de Deportista debe participar de la rama del deporte y en la selección de la Universidad (Ojo, la selección es la de la U, no la de la facultad). Mientras estén en la rama, optan a la prioridad especial anteriormente mencionada.(Agradezco a la Monse del Diario Integral que me facilitó esta información 😀 )
 
-## EH/DR/CFG e Inglés
+# EH/DR/CFG e Inglés
 
 A lo largo de la carrera es necesario tomar una cantidad de ramos electivos no-ingenieriles de 5 UD. Definiremos que es cada una de las categorías del título:
 
@@ -116,6 +121,6 @@ Antes de salir de la U, es necesario tomar 3 cursos CFG/EH y 3 cursos EH/DR/Ingl
 
 Rodrigo Chi nos aclara que cada nivel de inglés (Cada ramo de inglés tomado) cuenta como 5 UD para el subplan "EH/DR/Inglés". Por lo tanto, si quedaste en nivel 3 de Inglés o menor, no es necesario tomar más cursos para llenar ese plan.
 
-## Conclusiones
+# Conclusiones
 
 Hasta este punto hemos hablado re poco de la inscripción académica en sí. A pesar de ello, como equipo del Diario Integral consideramos que es necesario definir estos conceptos básicos de manera que en las publicaciones futuras podamos ser más claros al momento de explicar ciertos procedimientos.¡Quédate atento todos los miércoles a estas publicaciones!  
