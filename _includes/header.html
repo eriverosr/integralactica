@@ -5,10 +5,10 @@
         <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
             <a href="#" id="goto" class="pure-menu-link">Ir a</a>
             <ul class="pure-menu-children">
-              {% for post in site.posts %}
               <a href="/" class="pure-menu-link">
                 Inicio
               </a>
+              {% for post in site.posts %}
                 <li class="pure-menu-item">
                   <a href="{{ post.url | prepend: site.baseurl }}" class="pure-menu-link">
                     {{ post.title }}
