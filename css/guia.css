@@ -154,7 +154,8 @@ a.pure-button-primary {
 
 .splash {
     /* absolute center .splash within .splash-container */
-    height: 30%;
+    height: 20%;
+    min-height:100px;
     margin: auto;
     position: absolute;
     left: 0;
@@ -174,13 +175,13 @@ a.pure-button-primary {
 
 /* This is the main heading that appears on the blue section */
 .splash-title {
-    font-size: 2em;
+    font-size: 20px;
     line-height: 1em;
 }
 
 .splash-subtitle {
   font-family:TimeBurner;
-  font-size: 1.5em;
+  font-size: 15px;
   line-height: 1em;
   font-weight: bold;
 }
@@ -281,6 +282,15 @@ a.pure-button-primary {
         border: none;
     }
 
+    .splash-title {
+      font-size:22px;
+    }
+    .splash-subtitle {
+      font-size:18px;
+    }
+    .splash {
+      height:25%;
+    }
 }
 
 /*
@@ -289,5 +299,13 @@ a.pure-button-primary {
  * of the mobile and tablet styles.
  */
 @media (min-width: 78em) {
-
+    .splash-title {
+      font-size:30px;
+    }
+    .splash-subtitle {
+      font-size:20px;
+    }
+    .splash {
+      height:30%;
+    }
 }
