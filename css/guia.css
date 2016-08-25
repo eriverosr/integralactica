@@ -139,9 +139,10 @@ a.pure-button-primary {
 
 .home-menu .pure-menu-selected a {
     color: white;
+    border: none;
 }
 
-.home-menu a {
+a {
     color: #6FBEF3;
 }
 .home-menu li a:hover,
