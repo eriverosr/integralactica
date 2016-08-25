@@ -313,7 +313,7 @@ Recordemos qué era la prioridad: Tal como se dijo en la Guía 1, corresponde a 
 
 El sistema completo se puede ver en el siguiente diagrama de flujo:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/Diagrama-viajero.fw.png" description="Un pequeño resumen, por si no quedó lo suficientemente claro." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/Diagrama-viajero.fw_.png" description="Un pequeño resumen, por si no quedó lo suficientemente claro." %}
 
 Si te pareció un poco complicado, podemos hacer el siguiente ejercicio mental:
 
