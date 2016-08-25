@@ -5,11 +5,10 @@ date:   2016-07-15 14:59:54 -0400
 image:  /img/posts/parte1.png
 part: 1
 ---
-Todos los que llevamos más de un año en esta facultad hemos pasado por ello. Si eres mechón, estás a unas semanas de vivirlo. ¡Pero no temas! A pesar que la primera vez suele ser confusa y llena de interrogantes, con ayuda de estudiantes más experimentados y con el paso del tiempo el proceso se vuelve una simple rutina. No te darás cuenta cuando sientas tantaconfianza que intentarás ayudar a otros estudiantes que puedan estar en tu situación actual.
 
 Así es, hablo de la Inscripción Académica (IA), el proceso con el cual los estudiantes tomamos nuestros ramos semestre a semestre. En este pequeño tutorial te enseñaremos lo básico y no tan básico para que puedas tomar tus ramos sin morir en el intento.
 
-En El Diario Integral nos comprometemos a entregarte semana a semana explicaciones y_hints_parael proceso de Inscripción Académica. Dentro de este contexto, esta primera publicación intenta definir algunos conceptos que se utilizarán ampliamente en las publicaciones siguientes, las cuales tratarán de toma de ramos y la asignación de cada uno de ellos, _modificas_ y _eliminas._
+En El Diario Integral nos comprometemos a entregarte semana a semana explicaciones y _hints_ para el proceso de Inscripción Académica. Dentro de este contexto, esta primera publicación intenta definir algunos conceptos que se utilizarán ampliamente en las publicaciones siguientes, las cuales tratarán de toma de ramos y la asignación de cada uno de ellos, _modificas_ y _eliminas._
 
 # Tabla de contenidos
 {:.no_toc}
@@ -51,15 +50,15 @@ Una lista (Seguramente no completa) de códigos usados en la facultad para los r
 
 # Secciones
 
-La sección es una de las tantas instancias en que se realiza un ramoel mismo semestre. Por ejemplo, en primer semestre, "Intro al Cálculo" tiene 8 secciones de 100 personas (Las cuales claramente coinciden con las secciones de los mechones). Cada sección tiene un profesor asignado, el cual puede repetirse entre secciones; y auxiliares definidos, los cuales normalmenteno se repiten. La mayoría de las veces,en especial en ramosque no son de primer año, el profesor de cada sección decide su forma de evaluación y de enseñar el curso, por lo cual los estudiantes escogen la sección del ramoen la que desean participar según comentarios anteriores de los profesores. En U-Cursos puedes identificar la sección como el dígito después del guión en el código del ramo. Ejemplo: "MA1001-7" es la sección 7 del curso "Intro al Cálculo".
+La sección es una de las tantas instancias en que se realiza un ramo el mismo semestre. Por ejemplo, en primer semestre, "Intro al Cálculo" tiene 8 secciones de 100 personas (Las cuales claramente coinciden con las secciones de los mechones). Cada sección tiene un profesor asignado, el cual puede repetirse entre secciones; y auxiliares definidos, los cuales normalmenteno se repiten. La mayoría de las veces,en especial en ramos que no son de primer año, el profesor de cada sección decide su forma de evaluación y de enseñar el curso, por lo cual los estudiantes escogen la sección del ramo en la que desean participar según comentarios anteriores de los profesores. En U-Cursos puedes identificar la sección como el dígito después del guión en el código del ramo. Ejemplo: "MA1001-7" es la sección 7 del curso "Intro al Cálculo".
 
 Para efectos de requisitos de ramos, todas las secciones de un mismo ramo son equivalentes. Por ejemplo, si el curso BB1234 pide el curso BB1001, da lo mismo que hayas tomado BB1001-5 o BB1001-7, a pesar que la opinión general diga que el primero es más "difícil" que el segundo, o que en la práctica en uno hayan pasado más materia que en el otro.
 
 **¿Las secciones tienen que ser las mismas en todos mis ramos? **
 
-**R:** No, eso no tiene por que ser así. Ocurre el primer semestre de Plan común para facilitarle la pega de armar horarios a la Secretaría de Estudios.
+**R:** No, eso no tiene por que ser así. En primer año ocurre porque se desea que en el proceso de ambientación a la vida universitaria todos tengan los mismos compañeros y puedan armar grupos de estudios con mayor facilidad.
 
-**Actualización:** Vale Toro me informa por interno que si tomas todos los ramos en la misma sección, éstos siempre calzarán. ¡Gracias por el dato!
+**Actualización:** Vale Toro nos informa por interno que si tomas todos los ramos en la misma sección, éstos siempre calzarán (Es decir, no tendrán choques). ¡Gracias por el dato!
 
 **¿Qué pasa en un ramo si son más las personas que lo quieren tener quela cantidad decupos de éste?**
 
@@ -71,13 +70,13 @@ Para efectos de requisitos de ramos, todas las secciones de un mismo ramo son eq
 
 Son el equivalente a los "Créditos" en otras universidades y facultades. La leyenda cuenta que la UD representa la **cantidad de horas semanales que debieses dedicarle al curso** _(Spoiler: por lo general no es tan así)._ Por ejemplo, si el curso "Introducción al Cálculo" posee 10 UD, significa que debieses dedicarle 10 horas a la semana para poder asimilarlo de forma apropiada. Estas horas incluyen cátedras y auxiliares, así que el "Trabajo en casa" corresponde al tiempo que las actividades oficiales no logran cubrir.
 
-Por lo general, los ramos de malla (Obligatorios) poseen 10 UD o más (Pregúntenle a sus amigos DIM sobre aquello) y los ramos electivos (De especialidad, EH, DR, CFG, Inglés) poseen 5 UD. Claramente hay excepciones tanto en Plan Común como Especialidad. En el caso de PC,Introducción a la Ingeniería posee5 UD.
+Por lo general, los ramos de malla (Obligatorios) poseen 10 UD o más (Pregúntenle a sus amigos DIM sobre aquello) y los ramos electivos (De especialidad, EH, DR, CFG, Inglés) poseen 5 UD. Claramente hay excepciones tanto en Plan Común como Especialidad. En el caso de PC,Introducción a la Ingeniería posee 5 UD.
 
 Las UD sirven también para calcular el promedio general. Los ramos con más UD influyen en mayor medida en el promedio, ya que éste está ponderado por la cantidad de UD de cada ramo. ¿De qué sirve el promedio en el Plan Común? Para algo llamado **prioridad**, que será definido en unos instantes.
 
-Por defecto desde segundo año, no posees límite de UDs, es decir, hipotéticamente podrías tomar todos los ramos que quisieras (siempre y cuando no tengas muchos **choques**, concepto del que hablaremos en otro momento). Pero existen situaciones en las cuales la Escuela impone un_límite de UD._ Las más conocidas están relacionadas con mantener un promedio ponderado bajo 5,o estar en segundo semestre de primer año de Plan Común.
+Por defecto desde segundo año, no posees límite de UDs, es decir, hipotéticamente podrías tomar todos los ramos que quisieras (siempre y cuando no tengas muchos **choques**, concepto del que hablaremos en otro momento). Pero existen situaciones en las cuales la Escuela impone un_límite de UD._ Las más conocidas están relacionadas con mantener un promedio ponderado bajo 5, o estar en segundo semestre de primer año de Plan Común.
 
-Hablando del caso más inmediato, el estudiante de primer año en segundo semestre de Plan Común posee un límite de 50 UD y una carga académica obligatoria de 45 UD si está al día. Esto significa que el estudiante en el caso anteriorpuede escoger un ramo electivo para complementar el plan del semestre.
+Hablando del caso más inmediato, el estudiante de primer año en segundo semestre de Plan Común posee un límite de 50 UD y una carga académica obligatoria de 45 UD si está al día. Esto significa que el estudiante en el caso anterior puede escoger un ramo electivo para complementar el plan del semestre.
 
 Cuando pasas un ramo, sus UD se transforman en **UD aprobadas**, cuando repruebas, dicho coloquialmente como "te echas" un ramo, éstas se transforman en **UD reprobadas**. La suma de las UD aprobadas con las UD reprobadas se denomina **UD inscritas**. Estos valores tienen influencia en la **prioridad.**
 
