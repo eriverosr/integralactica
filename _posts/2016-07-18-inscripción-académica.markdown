@@ -76,7 +76,7 @@ Dadas las 3 Condiciones Siguientes:
 
 * Poseer más de **440UD aprobadas.**
 * Ser **Alumno Destacado.**
-* **No haber reprobado nunca un ramo.**
+* **No haber reprobado un ramo en el último año** _(a contar desde el semestre de asignación de la prioridad)_
 
 Existen tres posibilidades:
 
