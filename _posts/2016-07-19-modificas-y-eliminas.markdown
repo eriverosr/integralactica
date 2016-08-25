@@ -133,15 +133,13 @@ También te recomendamos que guardes tus **vidas**, ya que uno nunca sabe cuando
 
 # Agradecimientos finales.
 
-Deseo agradecer como director la infinita paciencia y voluntad de la **Comisión Bienestar y Docencia **del **Centro de Estudiantes de Ingeniería.** En especial a **Gabriel Moya** y a **Maika** (También conocido como Tomás Martínez).
+Deseo agradecer como director la infinita paciencia y voluntad de la **Comisión Bienestar y Docencia del Centro de Estudiantes de Ingeniería**. En especial a **Gabriel Moya** y a **Maika (También conocido como Tomás Martínez)**.
 
-También deseamos agradecer el aporte en lo que a comunicación con Plan Común se refiere de la **Comisión Docencia**del **Centro de Estudiantes de Plan Común**, en especial a **Bernardo Subercaseaux** que hizo los contactos necesarios.
+También deseamos agradecer el aporte realizado por **Eduardo Riveros**, principal elaborador y planificador de este documento. Junto a **María José Contreras** por su buena disposición y apoyo en el proceso.
 
-Por último, desearía agradecer a todos los **Beta Testers** de la Guía, entre ellos a **Franco Miranda**, **Kyra Cossio**, **Camila Zárate**, el equipo de **La Radio Integral**, el equipo de **El Diario Integral** y a todos los que nos hicieron llegar sus comentarios por todos los canales disponibles _(Facebook, Twitter, U-Cursos, este blog)_.
+Por último, desearía agradecer a todos los Beta Testers de la Guía, entre ellos a **Franco Miranda**, **Kyra Cossio**, **Camila Zárate**, el equipo de **La Radio Integral**, el equipo de **El Diario Integral** y a todos los que nos hicieron llegar sus comentarios por todos los canales disponibles (Facebook, Twitter, U-Cursos, este blog).
 
-Como equipo editorial queremos destacar a la persona que tuvo la iniciativa de comenzar con esto, y a todo el empeño que le colocó en poder mejorar publicación a publicación este contenido. (Su identidad será mantenida en secreto, pues de hecho él no sabe la existencia de este párrafo).
-
-Esperamos que la guía les haya servido de algo, y que sirva los años que vienen a los futuros estudiantes de nuestra facultad. Haremos lo posible (e imposible si es necesario) para mantenerla actualizada.
+Esperamos que la guía les haya servido de algo, y que sirva los años que vienen a los futuros estudiantes de nuestra facultad. Haremos lo posible (e **imposible** si es necesario) para mantenerla actualizada.
 
 **¡Saludos Integrales!**
 
