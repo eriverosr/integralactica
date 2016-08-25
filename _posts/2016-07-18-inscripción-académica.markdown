@@ -257,7 +257,9 @@ Para esto es posible establecer la cantidad máxima de choques que deseas en tu 
 
 **¿Cual es la diferencia entre los ramos deportivos I y II?**
 
-Absolutamente ninguna, puedes tomar los II primero y no pasa nada. La idea de tenerlos así es que puedas tomar el mismo ramo dos veces. Por lo general, los profes combinan las secciones I y II que tienen el mismo horario del mismo deporte o actividad recreativa.
+En la teoría, la diferencia entre ambos ramos es que el II puede pedir un mayor nivel de exigencia al momento de darlo. En la práctica, existen DR en los que eso no es así y puedes tomar cualquiera de los dos. _(De hecho, varios profesores trabajan con ambas secciones al mismo tiempo)._ Por lo tanto, si tienes dudas te recomendamos preguntar por el ramo en específico a algún amigo que lo haya tomado o en el Foro de U-Cursos, o simplemente postular directamente a la versión I de éste.
+
+Según hemos escuchado de algunos profesores, la existencia de 2 instancias para el mismo ramo permite a sus interesados tomarlo dos veces.
 
 **Una pregunta que puede parecer tonta pero de verdad me preocupa… ¿Por qué en el horario aparece como si todos los controles chocasen?**
 
