@@ -74,7 +74,7 @@ En realidad todos nos confundimos cuando **hablamos de prioridad**, por lo cual 
 
 # Catálogo de Cursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/sgcc1.png" description="¡Son muchos!" %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/cursos.png" description="¡Son muchos!" %}
 
 ¡La Wikipedia (en el sentido de enciclopedia, no de wiki. Imagínense si los nombres de cursos fueran editables…) de todos los cursos que se impartieron o imparten en la facultad! Será tu mejor aliada unas semanas antes del inicio del nuevo semestre para revisar qué profesores, secciones y horarios existen en la oferta futura.
 
@@ -111,7 +111,7 @@ Los cuatro certificados anteriormente mencionados son, como ya se dijo, gratuito
 
 # Concursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfmc1.png" description="Espera,¿No que regalaban Macs en la sección de concursos?" %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/concursos.png" description="Espera,¿No que regalaban Macs en la sección de concursos?" %}
 
 Esperamos que ya estés dentro de algún Grupo Organizado (G.O.) o Comisión dentro de la facultad, pero si no es así, ¿qué esperas?. Bueno, la cosa es que muchas veces querrás organizar actividades para la facultad al estar en un G.O, y necesitaras dinero. Si es así, podrás postular a los fondos concursables que ofrece el CEI a lo largo del año.
 
@@ -127,7 +127,7 @@ Créeme que somos muchos los que pensamos así 🙁
 
 # Consejos de Facultad
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfmcf1.png" description="¡Actas!" %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/consejos.png" description="¡Actas!" %}
 
 _"Este Consejo está integrado por los Directores de los Departamentos y Escuelas, y por los Directores de los Institutos y Centros. Los académicos de libre elección, quienes durarán dos años en sus funciones, pueden ser elegidos sólo por un segundo período consecutivo."_
 
@@ -150,7 +150,7 @@ Así es, nada que mirar. Sigamos.
 
 # Eventos
 
-{% include image.html src=" http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfme1.png" description="Muchas lágrimas cayeron esa semana en esa sala..." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/eventos.png" description="Muchas lágrimas cayeron esa semana en esa sala..." %}
 
 ¡Acá están todos los carretes que se realizan en la facultad! Bueno, si "carretes" es para ti todas y cada una de las cátedras, conferencias, reuniones y seminarios que existen.
 
@@ -180,7 +180,7 @@ Como dijimos anteriormente, todo evento que use un recurso de la facultad y que 
 
 Por otro lado, en "Resultados" puedes ver algo así como tu "Historial de cursos solicitados", el cual si eres mechón no tiene prácticamente nada de información.
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfmia2.png" description="Sí, nosotros también fuimos mechones..." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/ia_cursos.png" description="Sí, nosotros también fuimos mechones..." %}
 
 **¿Puedo…?**
 
@@ -188,7 +188,7 @@ Responderemos todas sus dudas sobre esto el próximo lunes 😀
 
 # Postulaciones Docentes
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfmpd1.png" description="Y pensar que aún no está decidido quienes revisarán mis pruebas el próximo semestre..." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/postulacionesdocentes.png" description="Y pensar que aún no está decidido quienes revisarán mis pruebas el próximo semestre..." %}
 
 Muy seguramente tuviste este semestre un auxiliar el cual te hizo pensar "¡Que gran auxiliar! ¿De dónde lo habrá sacado el profesor?" o si no "¡Qué auxiliar más malo… No sé cómo logró conseguir la pega". Bueno, en ambos casos, la decisión se tomó debido a que el estudiante en cuestión postuló en esta sección. Desde acá los estudiantes pueden postular a las distintas secciones de ramos que ya han cursado a ser auxiliares (dar clases auxiliares) o ayudantes (revisar controles). El profesor suele tomar la decisión la primera semana de cada semestre, quedando fijos prácticamente todos los auxiliares y ayudantes durante la semana 2.
 
@@ -206,17 +206,17 @@ Por lo general un buen promedio es un requisito común en todos los ramos. Aun a
 
 # Programas de Cursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/fcfmpc1.png" description="Acabo de confirmar que en el curso 'Historia de Chile: Siglo XX' se ve La historia de Chile del siglo XX :D" %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/programascursados.png" description="Acá puedo ver todos los programas de los cursos que he tomado." %}
 
-¿Te gustaría saber de qué trata el curso "Del Universo a la Tierra… ¡Cueca Chilena!" porque el nombre no te dice absolutamente nada? Nosotros pensamos igual y también nos gustaría saberlo, pero lamentablemente ese curso es un CFG y su información no está en U-Campus. Así que si alguien lo tomó por favor avísenos 🙂
+¿Quieres saber cuales son los programas de los cursos que tomaste o estás tomando? Este módulo es súper útil si es que no recuerdas cuánto valía en ponderacíon el proyecto del curso comparado con los controles. Puedes ver y buscar todos los cursos que has tomado y descargar sus programas, si es que existen en la plataforma.
 
-En esta sección podrás encontrar los PDF que contienen los programas de curso de la mayoría de los ramos que se dictan en la facultad. Un programa de curso es un ramo con el código y nombre del curso, sus requisitos en ramos y los contenidos detallados que se ven en cada curso con su extensión en semanas, además de la bibliografía pertinente. Es súper útil si deseas tomar un ramo electivo y quieres saber qué tópicos se tratarán en él.
+** Pero... ¿Qué es un programa de curso? **
 
-En la pestaña "Por Institución" encontrarás una lista con los departamentos que existen en la facultad, de forma que los programas se te listarán de forma similar a los cursos en el _Catálogo de Cursos_. En la pestaña "Mis programas cursados" encontrarás los programas de los cursos que ya has hecho o tomado.
+ Un programa de curso es un ramo con el código y nombre del curso, sus requisitos en ramos y los contenidos detallados que se ven en cada curso con su extensión en semanas, además de la bibliografía pertinente. Es súper útil si deseas tomar un ramo electivo y quieres saber qué tópicos se tratarán en él.
 
-**¡Hay programas de cursos que ya no se dictan!**
+** ¿Qué pasa si quiero ver programas de cursos que no he tomado?**
 
-Sí, y seguramente es para sacarnos pica de como algunos cursos pasados eran tan geniales, y ya no existen 🙁
+En esos casos puedes ver los programas de cursos accediendo al **Catálogo de cursos**, en el departamento correspondiente.
 
 # Títulos y grados
 
