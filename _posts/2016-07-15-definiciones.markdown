@@ -59,7 +59,7 @@ Para efectos de requisitos de ramos, todas las secciones de un mismo ramo son eq
 
 **Actualización:** Vale Toro nos informa por interno que si tomas todos los ramos en la misma sección, éstos siempre calzarán (Es decir, no tendrán choques). ¡Gracias por el dato!
 
-**¿Qué pasa en un ramo si son más las personas que lo quieren tener quela cantidad decupos de éste?**
+**¿Qué pasa en un ramo si son más las personas que lo quieren tener que la cantidad de cupos de éste?**
 
 **R:** Ya llegaremos a eso. (Véase **prioridad**)
 
