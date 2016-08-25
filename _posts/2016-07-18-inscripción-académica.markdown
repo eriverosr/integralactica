@@ -34,7 +34,7 @@ Como ya se dijo, la idea de los requisitos es asegurarse que los estudiantes que
 
 Tendrás que repasarla por tu cuenta, por lo mismo **no patees ramos** de no ser absolutamente necesario 🙁 (True story).
 
-Existe otro tipo de requisito especial, llamado el R**equisito Simultáneo**. si el ramo A tiene como requisito simultáneo a B, significa que A pide tener aprobado B para poder tomarse o que se tomen A y B el mismo semestre. Viéndolo de esa forma, podemos pensarlo como un **Requisito** más light.
+Existe otro tipo de requisito especial, llamado el **Requisito Simultáneo**. si el ramo A tiene como requisito simultáneo a B, significa que A pide tener aprobado B para poder tomarse o que se tomen A y B el mismo semestre. Viéndolo de esa forma, podemos pensarlo como un **Requisito** más light.
 
 **¿Pero que pasa si me echo B, y paso A un semestre? ¿Significa que me eché los dos?**
 
