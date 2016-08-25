@@ -105,7 +105,7 @@ No que sepamos…
 
 ## Workflow
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/sgw1.png" description="Una de las secciones más importantes y menos conocidas de U-Cursos." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/workflow.png" description="Una de las secciones más importantes y menos conocidas de U-Cursos." %}
 
 Ésta es típicamente una de las secciones más desconocidas cuando uno lleva poco tiempo usando U-campus, pero sin lugar a dudas de las más importantes de todo el sitio. En esta sección podrás llevar a cabo varios de los trámites oficiales. Cambiar de código, justificar ausencia a un control, pedir certificados OPs y hacer solicitudes extraordinarias.
 
