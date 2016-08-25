@@ -188,7 +188,7 @@ Responderemos todas sus dudas sobre esto el próximo lunes 😀
 
 # Postulaciones Docentes
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/postulacionesdocentes.png" description="Y pensar que aún no está decidido quienes revisarán mis pruebas el próximo semestre..." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/postulaciones_docentes.png" description="Y pensar que aún no está decidido quienes revisarán mis pruebas el próximo semestre..." %}
 
 Muy seguramente tuviste este semestre un auxiliar el cual te hizo pensar "¡Que gran auxiliar! ¿De dónde lo habrá sacado el profesor?" o si no "¡Qué auxiliar más malo… No sé cómo logró conseguir la pega". Bueno, en ambos casos, la decisión se tomó debido a que el estudiante en cuestión postuló en esta sección. Desde acá los estudiantes pueden postular a las distintas secciones de ramos que ya han cursado a ser auxiliares (dar clases auxiliares) o ayudantes (revisar controles). El profesor suele tomar la decisión la primera semana de cada semestre, quedando fijos prácticamente todos los auxiliares y ayudantes durante la semana 2.
 
@@ -206,7 +206,7 @@ Por lo general un buen promedio es un requisito común en todos los ramos. Aun a
 
 # Programas de Cursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/programascursados.png" description="Acá puedo ver todos los programas de los cursos que he tomado." %}
+{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/programas_cursados.png" description="Acá puedo ver todos los programas de los cursos que he tomado." %}
 
 ¿Quieres saber cuales son los programas de los cursos que tomaste o estás tomando? Este módulo es súper útil si es que no recuerdas cuánto valía en ponderacíon el proyecto del curso comparado con los controles. Puedes ver y buscar todos los cursos que has tomado y descargar sus programas, si es que existen en la plataforma.
 
