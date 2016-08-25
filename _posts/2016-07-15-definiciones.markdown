@@ -9,7 +9,6 @@ part: 1
 Así es, hablo de la Inscripción Académica (IA), el proceso con el cual los estudiantes tomamos nuestros ramos semestre a semestre. En este pequeño tutorial te enseñaremos lo básico y no tan básico para que puedas tomar tus ramos sin morir en el intento.
 
 En El Diario Integral nos comprometemos a entregarte semana a semana explicaciones y _hints_ para el proceso de Inscripción Académica. Dentro de este contexto, esta primera publicación intenta definir algunos conceptos que se utilizarán ampliamente en las publicaciones siguientes, las cuales tratarán de toma de ramos y la asignación de cada uno de ellos, _modificas_ y _eliminas._
-
 # Tabla de contenidos
 {:.no_toc}
 
@@ -108,17 +107,23 @@ A lo largo de la carrera es necesario tomar una cantidad de ramos electivos no-i
 
 **EH:** Electivos Humanistas, ramos de diversos contenidos administrados por el Área de Estudios Humanísticos de la facultad. Todos se dictan en Beauchef y los identificarás porque su código comienza con EH.
 
-**DR:** Deportivos Recreativos, ramos deportivos y recreativos administrados por el Área de Deportes de la facultad. Es una tradición que los mechones tomen un DR como primer ramo electivo, pero no hay nada que lo obligue.
+**DR:** Deportivos Recreativos, ramos deportivos y recreativos administrados por el Área de Deportes de la facultad. Es una tradición que los mechones tomen un DR como primer ramo no ingenieril o de formación integral, pero no hay nada que lo obligue.
 
-**CFG:** Cursos de Formación General, administrados por "Plataforma UChile". Son ramos que se toman con estudiantes de otras carreras de la Chile y pueden ser en Beauchef como en otras facultades. Su postulación se realiza un poco después del inicio del semestre, en los procesos conocidos como **modifica.**
+**CFG:** Cursos de Formación General, administrados por "Plataforma UChile". Son ramos que se toman con estudiantes de otras carreras de la Chile y pueden ser en Beauchef o en otras facultades. Debido a que por lo general no todas las facultades inician el proceso de inscripción académica al mismo tiempo, su postulación se suele realizar un poco después del inicio del semestre, en los procesos conocidos como **modifica.**
 
 **Inglés:** Ramos necesarios para pasar el subplan de inglés en la facultad y obligatorios para licenciarse.A estas alturas es bastante probable que ya hayas dado el test de inglés. Esta prueba determina tu nivel en el idioma extranjero, el cual se clasifica en un número entre 1 y 6. Si tu nivel es 6, solo debes dar una prueba y con eso habrás completado este proceso. En caso que tu nivel sea menor,tendrás que dar semestralmente el ramo correspondiente a tu nivel actual, el cual al pasarlo te permite subir al nivel siguiente. Pasado el nivel 5 sólo quedará dar el examen final, con lo cual al pasarlo estarás listo en este tópico.
 
-Antes de salir de la U, es necesario tomar 3 cursos CFG/EH y 3 cursos EH/DR/Inglés. Considerando el punto anterior acerca de la prioridad es muy recomendable tomar estos cursos lo antes posible, ya que a medida pases semestres en esta facultad se te hará cada vez mas difícil tomar ramos.
+**Francés** Ramos optativos que permiten cumplir las UD del subplan de idiomas. Para poder tomarlos, es necesario rendir un _test de diagnóstico de francés_.
+
+Antes de salir de la U, es necesario tomar 3 cursos CFG/EH y 3 cursos EH/DR/Idiomas. Considerando el punto anterior acerca de la prioridad es muy recomendable tomar estos cursos lo antes posible, ya que a medida pases semestres en esta facultad se te hará cada vez mas difícil tomar ramos.
 
 **He escuchado por ahí que en el caso de Inglés, todos los niveles cuentan solo como 5 UD. ¿Es eso cierto?**
 
-Rodrigo Chi nos aclara que cada nivel de inglés (Cada ramo de inglés tomado) cuenta como 5 UD para el subplan "EH/DR/Inglés". Por lo tanto, si quedaste en nivel 3 de Inglés o menor, no es necesario tomar más cursos para llenar ese plan.
+Rodrigo Chi nos aclara que cada nivel de inglés (Cada ramo de inglés tomado) cuenta como 5 UD para el subplan "EH/DR/Idioma". Por lo tanto, si quedaste en nivel 3 de Inglés o menor, no es necesario tomar más cursos para llenar ese plan.
+
+**¿Qué pasa si hago más cursos de un subplan de los que necesito?**
+
+Nada malo. Dentro de tu promedio se considerarán solamente los cursos con las mejores notas, dejando de lado los que cumplen el subplan pero no ayudan a tu promedio.
 
 # Conclusiones
 
