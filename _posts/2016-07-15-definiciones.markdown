@@ -6,6 +6,8 @@ image:  /img/posts/parte1.png
 part: 1
 ---
 
+Todos los que llevamos más de un año en esta facultad hemos pasado por ello. Si eres mechón, estás a unas semanas de vivirlo. ¡Pero no temas! A pesar que la primera vez suele ser confusa y llena de interrogantes, con ayuda de estudiantes más experimentados y con el paso del tiempo el proceso se vuelve una simple rutina. No te darás cuenta cuando sientas tanta confianza que intentarás ayudar a otros estudiantes que puedan estar en tu situación actual.
+
 Así es, hablo de la Inscripción Académica (IA), el proceso con el cual los estudiantes tomamos nuestros ramos semestre a semestre. En este pequeño tutorial te enseñaremos lo básico y no tan básico para que puedas tomar tus ramos sin morir en el intento.
 
 En El Diario Integral nos comprometemos a entregarte semana a semana explicaciones y _hints_ para el proceso de Inscripción Académica. Dentro de este contexto, esta primera publicación intenta definir algunos conceptos que se utilizarán ampliamente en las publicaciones siguientes, las cuales tratarán de toma de ramos y la asignación de cada uno de ellos, _modificas_ y _eliminas._
