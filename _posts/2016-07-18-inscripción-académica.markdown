@@ -50,9 +50,9 @@ Como ya se menciónó en el primer tomo de _La Guía_, en algunos casos la Escue
 
 * Si el estudiante está actualmente en primer año, su límite es de **50 UD.**
 * Si el estudiante no está en primer año, se clasifica en uno de los siguientes grupos:
-    * Si hasta el semestre anterior el estudiante no reprobó más de 20 UD, y posee promedio superior o igual a 5.0, éste **no posee límite de UD.**
-    * Si hasta el semestre anterior el estudiante no reprobó más de 20 UD, y posee promedio inferior a 5.0, éste **posee un límite de 60 UD.**
-    * Si hasta el semestre anterior el estudiante reprobó más de 20 UD (O sea, el caso en que ninguna de las condiciones anteriores se cumpla), éste **posee un límite de 50 UD.**
+    * Si hasta el semestre anterior el estudiante no reprobó 20 UD o más, y posee promedio superior o igual a 5.0, éste **no posee límite de UD.**
+    * Si hasta el semestre anterior el estudiante no reprobó 20 UD o más, y posee promedio inferior a 5.0, éste **posee un límite de 60 UD.**
+    * Si hasta el semestre anterior el estudiante reprobó 20 UD o más (O sea, el caso en que ninguna de las condiciones anteriores se cumpla), éste **posee un límite de 50 UD.**
 
 Existe un límite de UD fijo en los Semestres de Verano, instancias de duración de 2 meses que la Escuela abre para que los estudiantes puedan recuperar el ritmo con sus ramos inscribiéndose para darlos entre los meses de Diciembre y Enero. Este año no habrá semestre de verano debido a la recalendarización producida por el Paro estudiantil, pero cuando el semestre se realiza el límite, para todos, es de **22 UD.**
 
