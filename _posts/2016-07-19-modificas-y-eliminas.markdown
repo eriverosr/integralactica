@@ -27,7 +27,7 @@ Muy seguramente, cuando estés leyendo esto, ya tendrás a mano los resultados d
 
 Si te diriges al mismo lugar donde pedías la IA, y haces click en la pestaña **Resultados**, podrás ver el estado de tu inscripción. Cada ramo que solicitaste fue procesado y  aprobado o rechazado. Las razones de los rechazos (No hay cupo, no cumple requisitos, ramo ya inscrito) aparecen al lado de todos los ramos rechazados, de esta forma podremos comprender por qué no nos dieron lo que queríamos.
 
-{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/modifica0.jpg" description="De cuando se pifeó U-Campus :(" %}
+{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2018/03/modifica0.jpg" description="De cuando se pifeó U-Campus :(" %}
 
 Entonces, ¿qué nos queda por hacer? Básicamente, solo nos queda esperar a que en Novedades anuncien la apertura de un **modifica**, en el cual podremos realizar modificaciones en nuestro horario.
 
@@ -87,7 +87,7 @@ Es bastante similar al a Inscribir ramos, pero con ligeras diferencias. A contin
 
 Primero, revisamos la misma página que para inscribir ramos. "**Inscripción Académica FCFM". **En ella, nos encontraremos con un proceso llamado "**Modifica 1"**. Si entramos a él, veremos los ramos que ya tenemos, con un botón indicándonos que podemos eliminarlos. Lo que necesitamos hacer ahora es, igual que en la inscripción, seleccionar los ramos que nos gustaría agregar o permutar, y marcar los ramos que nos gustaría eliminar. La pantalla quedará de una forma similar a ésta:
 
-{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2015/08/modifica3.png" description="¡¡NO ELIMINEN ELECTRO!!" %}
+{% include image.html src="http://diario.laradiointegral.cl/wp-content/uploads/2018/03/modifica3.png" description="¡¡NO ELIMINEN ELECTRO!!" %}
 
 Como podemos ver, el sistema nos deja eliminar cursos que ya tenemos, agregar cursos sin permutarlos o permutarlos por otro, el cual sería eliminado si nos dan el que deseamos.
 

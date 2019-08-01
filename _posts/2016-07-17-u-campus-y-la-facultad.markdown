@@ -40,7 +40,7 @@ Los servicios de esta categoría son:
 
 # Boletines
 
-{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/mallame.png" description="La malla sugerida que me entregó U-Campus para el próximo semestre :o" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2018/03/mallame.png" description="La malla sugerida que me entregó U-Campus para el próximo semestre :o" %}
 
 Otra de las secciones importantes de esta plataforma. Contiene toda la información académica que nos representa y lleva una especie de "Hoja de Vida Académica" de nosotros desde el momento que entramos. Actualmente posee 5 secciones/pestañas: (Digo actualmente porque hasta hace una semana eran 4 pestañas D:)
 
@@ -82,7 +82,7 @@ El menú desplegable superior te permite elegir un semestre para revisarlo. En l
 
 Cada ramo en cada departamento se muestra de forma similar a esta:
 
-{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/curso.png" description="curso" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2018/03/curso.png" description="curso" %}
 
 En cada uno de los ramos se puede ver su código, su nombre, su programa, la cantidad de UDs que representa, los requisitos ("/" significa "ó" y "," significa "y") y las equivalencias (Con códigos de ramos super viejones). También es posible ver las secciones del mismo ramo, con sus profesores, cupos, ocupados (Número que es mayor a cero en cursos de postgrado y después de realizadas las Inscripciones Académicas) y los horarios de las distintas actividades (Cátedras, Controles y Auxiliares).
 
@@ -119,7 +119,7 @@ En particular, el **FIPE** te ayudará a financiar proyectos específicos a desa
 
 Cualquiera sea el caso, deben tener como objetivo el "_enriquecimiento de la vida comunitaria de la Facultad, incentivando la conciencia y responsabilidad social_", y no se financiarán "_actividades políticas proselitistas, ni en ese sentido actividades religiosas._" En U-Campus es donde tienes que enviar tu proyecto, justificando adecuadamente cada uno de los requisitos pedidos. También podrás encontrar las postulaciones enviadas en versiones anteriores, y utilizarlas como base para realizar las tuyas. Solo esperamos que no se te ocurra pedir una pelota gigante como se le ocurrió a [cierta comunidad][6]...
 
-{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/pelotagigante.png" description="Comunidad Felicidad FTW" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2018/03/pelotagigante.png" description="Comunidad Felicidad FTW" %}
 
 **¡Pero yo también quería una pelota gigante!**
 
