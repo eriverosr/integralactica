@@ -40,7 +40,7 @@ Los servicios de esta categoría son:
 
 # Boletines
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/mallame.png" description="La malla sugerida que me entregó U-Campus para el próximo semestre :o" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/mallame.png" description="La malla sugerida que me entregó U-Campus para el próximo semestre :o" %}
 
 Otra de las secciones importantes de esta plataforma. Contiene toda la información académica que nos representa y lleva una especie de "Hoja de Vida Académica" de nosotros desde el momento que entramos. Actualmente posee 5 secciones/pestañas: (Digo actualmente porque hasta hace una semana eran 4 pestañas D:)
 
@@ -74,7 +74,7 @@ En realidad todos nos confundimos cuando **hablamos de prioridad**, por lo cual 
 
 # Catálogo de Cursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/cursos.png" description="¡Son muchos!" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/cursos.png" description="¡Son muchos!" %}
 
 ¡La Wikipedia (en el sentido de enciclopedia, no de wiki. Imagínense si los nombres de cursos fueran editables…) de todos los cursos que se impartieron o imparten en la facultad! Será tu mejor aliada unas semanas antes del inicio del nuevo semestre para revisar qué profesores, secciones y horarios existen en la oferta futura.
 
@@ -82,7 +82,7 @@ El menú desplegable superior te permite elegir un semestre para revisarlo. En l
 
 Cada ramo en cada departamento se muestra de forma similar a esta:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/curso.png" description="curso" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/curso.png" description="curso" %}
 
 En cada uno de los ramos se puede ver su código, su nombre, su programa, la cantidad de UDs que representa, los requisitos ("/" significa "ó" y "," significa "y") y las equivalencias (Con códigos de ramos super viejones). También es posible ver las secciones del mismo ramo, con sus profesores, cupos, ocupados (Número que es mayor a cero en cursos de postgrado y después de realizadas las Inscripciones Académicas) y los horarios de las distintas actividades (Cátedras, Controles y Auxiliares).
 
@@ -111,7 +111,7 @@ Los cuatro certificados anteriormente mencionados son, como ya se dijo, gratuito
 
 # Concursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/concursos.png" description="Espera,¿No que regalaban Macs en la sección de concursos?" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/concursos.png" description="Espera,¿No que regalaban Macs en la sección de concursos?" %}
 
 Esperamos que ya estés dentro de algún Grupo Organizado (G.O.) o Comisión dentro de la facultad, pero si no es así, ¿qué esperas?. Bueno, la cosa es que muchas veces querrás organizar actividades para la facultad al estar en un G.O, y necesitaras dinero. Si es así, podrás postular a los fondos concursables que ofrece el CEI a lo largo del año.
 
@@ -119,7 +119,7 @@ En particular, el **FIPE** te ayudará a financiar proyectos específicos a desa
 
 Cualquiera sea el caso, deben tener como objetivo el "_enriquecimiento de la vida comunitaria de la Facultad, incentivando la conciencia y responsabilidad social_", y no se financiarán "_actividades políticas proselitistas, ni en ese sentido actividades religiosas._" En U-Campus es donde tienes que enviar tu proyecto, justificando adecuadamente cada uno de los requisitos pedidos. También podrás encontrar las postulaciones enviadas en versiones anteriores, y utilizarlas como base para realizar las tuyas. Solo esperamos que no se te ocurra pedir una pelota gigante como se le ocurrió a [cierta comunidad][6]...
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/pelotagigante.png" description="Comunidad Felicidad FTW" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/pelotagigante.png" description="Comunidad Felicidad FTW" %}
 
 **¡Pero yo también quería una pelota gigante!**
 
@@ -127,7 +127,7 @@ Créeme que somos muchos los que pensamos así 🙁
 
 # Consejos de Facultad
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/consejos.png" description="¡Actas!" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/consejos.png" description="¡Actas!" %}
 
 _"Este Consejo está integrado por los Directores de los Departamentos y Escuelas, y por los Directores de los Institutos y Centros. Los académicos de libre elección, quienes durarán dos años en sus funciones, pueden ser elegidos sólo por un segundo período consecutivo."_
 
@@ -150,7 +150,7 @@ Así es, nada que mirar. Sigamos.
 
 # Eventos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/eventos.png" description="Muchas lágrimas cayeron esa semana en esa sala..." %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/eventos.png" description="Muchas lágrimas cayeron esa semana en esa sala..." %}
 
 ¡Acá están todos los carretes que se realizan en la facultad! Bueno, si "carretes" es para ti todas y cada una de las cátedras, conferencias, reuniones y seminarios que existen.
 
@@ -180,7 +180,7 @@ Como dijimos anteriormente, todo evento que use un recurso de la facultad y que 
 
 Por otro lado, en "Resultados" puedes ver algo así como tu "Historial de cursos solicitados", el cual si eres mechón no tiene prácticamente nada de información.
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/ia_cursos.png" description="Sí, nosotros también fuimos mechones..." %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/ia_cursos.png" description="Sí, nosotros también fuimos mechones..." %}
 
 **¿Puedo…?**
 
@@ -188,7 +188,7 @@ Responderemos todas sus dudas sobre esto el próximo lunes 😀
 
 # Postulaciones Docentes
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/postulaciones_docentes.png" description="Y pensar que aún no está decidido quienes revisarán mis pruebas el próximo semestre..." %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/postulaciones_docentes.png" description="Y pensar que aún no está decidido quienes revisarán mis pruebas el próximo semestre..." %}
 
 Muy seguramente tuviste este semestre un auxiliar el cual te hizo pensar "¡Que gran auxiliar! ¿De dónde lo habrá sacado el profesor?" o si no "¡Qué auxiliar más malo… No sé cómo logró conseguir la pega". Bueno, en ambos casos, la decisión se tomó debido a que el estudiante en cuestión postuló en esta sección. Desde acá los estudiantes pueden postular a las distintas secciones de ramos que ya han cursado a ser auxiliares (dar clases auxiliares) o ayudantes (revisar controles). El profesor suele tomar la decisión la primera semana de cada semestre, quedando fijos prácticamente todos los auxiliares y ayudantes durante la semana 2.
 
@@ -206,7 +206,7 @@ Por lo general un buen promedio es un requisito común en todos los ramos. Aun a
 
 # Programas de Cursos
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2016/08/programas_cursados.png" description="Acá puedo ver todos los programas de los cursos que he tomado." %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2016/08/programas_cursados.png" description="Acá puedo ver todos los programas de los cursos que he tomado." %}
 
 ¿Quieres saber cuales son los programas de los cursos que tomaste o estás tomando? Este módulo es súper útil si es que no recuerdas cuánto valía en ponderacíon el proyecto del curso comparado con los controles. Puedes ver y buscar todos los cursos que has tomado y descargar sus programas, si es que existen en la plataforma.
 

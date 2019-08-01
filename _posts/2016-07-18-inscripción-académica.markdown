@@ -145,7 +145,7 @@ Ingresa a U-Cursos, sección Instituciones - Facultad de Ciencias Físicas y Mat
 
 Para ver los datos de las encuestas docentes, ingresa a la misma página que utilizas para ver todas las encuestas que no has contestado, pero en el submenú de U-Cursos "Por persona". Ahi podrás escribir el nombre del individuo al cual quieres ver sus resultados históricos de encuesta, y en conjunto con sugerencias de estudiantes más antiguos,  tomar una decisión más informado.
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/encuestas.png" description="Calidad de círculos." %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/encuestas.png" description="Calidad de círculos." %}
 
 Teniendo las encuestas ya contestadas, prosigamos.
 
@@ -157,11 +157,11 @@ Llegó la hora de explicar como se utiliza la interfaz de inscripción de ramos 
 
 Primero ingresamos a [U-Campus][4], el apartado de "[Inscripción Académica FCFM][5]" que está (como bien sabemos) en la sección de servicios de Facultad. En el cual veremos la siguiente pantalla:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/ia0.png" description="ia0" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/ia0.png" description="ia0" %}
 
 Hacemos click en el título "Inscripción Académica Primavera 2015" y nos enfrentaremos con la siguiente interfaz:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/ia1.png" description="ia1" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/ia1.png" description="ia1" %}
 
 Lo que se puede apreciar arriba y que parece un horario, es efectivamente un horario. En este espacio se mostrarán todos los cursos que selecciones como potenciales a inscribir.
 
@@ -169,21 +169,21 @@ Abajo es posible notar un contador que indica el número de UDs inscritas hasta 
 
 Por último, vemos 3 pestañas, las cuales tienen las siguientes utilidades:
 
-* **Pestaña Cursos:** Acá aparecen por defecto todos los cursos que pertenecen a tu plan de estudios actual. (Plan de estudios es carrera, si eres mechón, tu plan de estudios es "Plan Común".{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/cursos.png" description="cursos" %}
+* **Pestaña Cursos:** Acá aparecen por defecto todos los cursos que pertenecen a tu plan de estudios actual. (Plan de estudios es carrera, si eres mechón, tu plan de estudios es "Plan Común".{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/cursos.png" description="cursos" %}
 
 **Dato Útil:** Los cursos están ordenados por departamento!
 
 * **Pestaña Cursos Filtrados:** En este lugar aparecen por defecto todos los cursos que no pertenecen a tu plan de estudios actual.
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/filtrados.png" description="filtrados" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/filtrados.png" description="filtrados" %}
 
 * **Pestaña Filtros:** En esta pestaña puedes modificar los filtros de forma de poder encontrar más fácilmente los cursos que buscas en la pestaña "Cursos". Los filtros son bastante explicativos, y también te permite decirle a IABot que asuma que ciertos cursos ya los pasaste, aun cuando hasta el momento no poseas acta 😀
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/filtros.png" description="filtros" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/filtros.png" description="filtros" %}
 
 Si nos fijamos, las pestañas _Cursos_ y _Cursos Filtrados_ son bastante similares. Analicemos la anatomía de cada curso mostrado en las listas de cursos:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/curso2.png" description="curso" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/curso2.png" description="curso" %}
 
 La primera columna indica el nombre del ramo al cual corresponde el curso y la sección, y la segunda y tercera columnas son bastante explicativas.
 
@@ -221,7 +221,7 @@ No es tan así, debido a lo que se explicará a continuación 🙂
 
 Después de haber marcado todos los cursos de los ramos deseados, te recomendamos quitar la fijación de horario realizada en el **"Dato útil"** anterior. De esta forma aparecerá en la ventana algo como esto:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/hrarioarmado.png" description="Letra hormigaaaa!" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/hrarioarmado.png" description="Letra hormigaaaa!" %}
 
 ¡La cantidad de choques es sorprendente! (33, todo calza 😮 ) ¡Pero no hay que alarmarse! Ya que estos choques no representan lo que aparentan a primera vista.
 
@@ -267,17 +267,17 @@ Tranquilo, los controles no chocarán ya que al igual que este semestre serán s
 
 Cuando sientas que tu horario  cumple tus expectativas, presiona el botón siguiente que aparece bajo el horario y los cursos a inscribir. Aquello te llevará a la siguiente página:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/pantalla2.png" description="pantalla2" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/pantalla2.png" description="pantalla2" %}
 
 Esto nos parece bastante conocido, ya que está directamente relacionado con lo explicado anteriormente sobre los choques. Marca la casilla que se acomoda a tu plan de horario ideal y presiona siguiente. Entonces, aparecerá una pantalla que posee dos partes:
 
 Si te sientes listo, presiona confirmar. En este momento podrás ver la siguiente pantalla si todo salió bien, confirmando que tu IA ha sido recibida y será procesada junto a las demás después del cierre del proceso de inscripción.
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/iaenvidada.png" description="Calidad de censura" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/iaenvidada.png" description="Calidad de censura" %}
 
 Esta pantalla es la misma que viste al momento de comenzar a inscribir la IA, pero ahora aparece una sección denominada **Último envío,** la cual posee un link numérico a la solicitud realizada para que la puedas revisar a futuro, verificando que pediste lo que querías pedir. También en ese link podrás ver si te aprobaron o rechazaron los ramos, y el motivo por el cual fueron rechazados después de realizada la asignación de éstos. Por último, en este espacio puedes ver la cantidad de estudiantes que hasta el momento han solicitado los mismos ramos que tú, igual que como podías verlo en el inicio de la IA.
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/resultados.png" description="resultados" %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/resultados.png" description="resultados" %}
 
 En el link "Ver Resumen" podrás ver la misma pantalla que viste en el paso 3 de 3 de la inscripción (El inmediatamente anterior a éste).
 
@@ -315,7 +315,7 @@ Recordemos qué era la prioridad: Tal como se dijo en la Guía 1, corresponde a 
 
 El sistema completo se puede ver en el siguiente diagrama de flujo:
 
-{% include image.html src="http://www.eldiariointegral.cl/wp-content/uploads/2015/08/Diagrama-viajero.fw_.png" description="Un pequeño resumen, por si no quedó lo suficientemente claro." %}
+{% include image.html src="http://www.diariointegral.cl/wp-content/uploads/2015/08/Diagrama-viajero.fw_.png" description="Un pequeño resumen, por si no quedó lo suficientemente claro." %}
 
 Si te pareció un poco complicado, podemos hacer el siguiente ejercicio mental:
 
